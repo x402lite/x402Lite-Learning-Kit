@@ -26,3 +26,15 @@ It allows websites, APIs, and AI agents to **charge or pay automatically** — n
    ```bash
    git clone https://github.com/x402lite/x402Lite-Learning-Kit.git
    cd x402Lite-Learning-Kit
+
+2. **Install dependencies**
+   ```bash
+    npm install
+    
+3. **Run the server**
+   ```bash
+   npm start
+
+4. **Test in browser**
+   Visit http://localhost:8080/api/x402
+   You’ll see a valid 402 Payment Required JSON response.
