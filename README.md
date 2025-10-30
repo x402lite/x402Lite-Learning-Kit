@@ -24,5 +24,5 @@ It allows websites, APIs, and AI agents to **charge or pay automatically** — n
 
 1. **Clone this repo**
    ```bash
-   git clone https://github.com/yourusername/x402Lite-Learning-Kit.git
+   git clone https://github.com/x402lite/x402Lite-Learning-Kit.git
    cd x402Lite-Learning-Kit
