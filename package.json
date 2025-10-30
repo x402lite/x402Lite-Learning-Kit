@@ -1,0 +1,16 @@
+{
+  "name": "x402lite-learning-kit",
+  "version": "1.0.0",
+  "description": "A simple starter kit to learn and implement the x402 Protocol for pay-per-use APIs.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["x402", "coinbase", "micropayments", "ai-payments", "web3", "api"],
+  "author": "x402Lite Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
