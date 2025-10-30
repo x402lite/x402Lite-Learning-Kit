@@ -16,7 +16,7 @@ A minimal open-source starter kit showing how to integrate the **x402 Protocol**
 ## 🧠 What is x402?
 
 x402 is a modern internet standard that adds native **payment support** to the web, reviving the original HTTP `402 Payment Required` status code.  
-It allows websites, APIs, and AI agents to **charge or pay automatically** — no wallets, pop-ups, or manual confirmations.
+It allows websites, APIs, and AI agents to **charge or pay automatically** — no wallets, pop-ups, and or manual confirmations.
 
 ---
 
