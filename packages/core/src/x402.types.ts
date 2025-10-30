@@ -1,0 +1,1 @@
+export type X402Body = { x402Version: number; accepts: any[]; };
