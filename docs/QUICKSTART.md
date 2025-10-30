@@ -1,1 +1,0 @@
-# Quickstart\n1. npm i @x402-lite/core @x402-lite/react\n2. <X402Gate resourceUrl='/api/premium' />

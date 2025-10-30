@@ -1,1 +1,0 @@
-export function X402Gate() { return <div>x402 Paywall Component</div>; }
